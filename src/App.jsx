@@ -30,7 +30,7 @@ function App() {
         title={'Card Title'}
         subtitle={'Card Subtitle'}
         content={
-          'Some filler paragraph that is here for no reason other that to be a filler. So you donT really have to read this, it is pointless. Why are you still reading?'
+          'Some filler paragraph that is here for no reason other that to be a filler. So you do not really have to read this, it is pointless. Why are you still reading?'
         }
         buttonText={'Press Me'}
         number={0}
@@ -39,7 +39,7 @@ function App() {
         title={'Card Title'}
         subtitle={'Card Subtitle'}
         content={
-          'Some filler paragraph that is here for no reason other that to be a filler. So you donT really have to read this, it is pointless. Why are you still reading?'
+          'Some filler paragraph that is here for no reason other that to be a filler. So you do not really have to read this, it is pointless. Why are you still reading?'
         }
         buttonText={'Press Me'}
         number={12}
@@ -48,7 +48,7 @@ function App() {
         title={'Card Title'}
         subtitle={'Card Subtitle'}
         content={
-          'Some filler paragraph that is here for no reason other that to be a filler. So you donT really have to read this, it is pointless. Why are you still reading?'
+          'Some filler paragraph that is here for no reason other that to be a filler. So you do not really have to read this, it is pointless. Why are you still reading?'
         }
         buttonText={'Press Me'}
         number={100}
